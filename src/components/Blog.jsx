@@ -10,16 +10,16 @@ const Blog = () => {
       link: "https://dev.to/johnnyk/react-hooks-a-comprehensive-beginners-guide-3bgc" 
     },
     {
-      title: "A Guide to Tailwind CSS",
-      excerpt: "Discover how Tailwind CSS can help you build beautiful and responsive designs quickly.",
+      title: "A Guide to Bootstrap",
+      excerpt: "Discover how Bootstrap can help you build beautiful and responsive designs quickly..",
       date: "June 25, 2024",
-      link: "https://www.material-tailwind.com/blog/how-to-learn-tailwind-css" 
+      link: "https://getbootstrap.com/docs/5.2/getting-started/introduction/" 
     },
     {
-      title: "Best Practices for Front-End Development",
-      excerpt: "Explore the best practices and tips for developing efficient and maintainable front-end applications.",
+      title: "Best Practices for Backend  Development",
+      excerpt: "Explore the best practices and tips for developing efficient and maintainable Backend .",
       date: "May 30, 2024",
-      link: "https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741" // Replace with actual link
+      link: "https://medium.com/@zalewski/node-js-for-backend-development-best-practices-and-performance-optimization-07d9dcda6c2a" // Replace with actual link
     }
   ];
 
